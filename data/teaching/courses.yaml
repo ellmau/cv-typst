@@ -1,0 +1,151 @@
+cms:
+  title: CMS Team Project
+  subtitle: Software Team Project
+  location: 
+    de: 8.0 SWS, 300h gesamt
+    en: 8.0h per week, 300 hours workload
+  description:
+    de: Fortgeschrittenes Software Engineering Team Projekt als Informatik-Master-Modul-Lehrveranstaltung
+    en: Advanced MSc module course in computer science with software engineering and teamwork focus
+  left: 
+    de: SS 2023, WS 2023
+    en: ST 2023, WT 2023
+
+rbpkr:
+  title: Rule-Based Paradigms in Knowledge Representation
+  subtitle: Seminar
+  location:
+    de: 2.0 SWS
+    en: 2.0h per week
+  description:
+    de: Vertiefende Informatik-Master-Modul Lehrveranstaltung
+    en: Advanced MSc module course in computer science
+  left: 
+    de: WS 2021
+    en: WT 2021
+
+kbsex:
+  title: 
+    de: Wissensbasierte Systeme
+    en: Knowledge Based Systems
+  subtitle:
+    de: Übung
+    en: Exercise
+  location:
+    de: 1.0 SWS
+    en: 1.0 h per week
+  description:
+    de: Informatik-Bachelor-Kurs, Vorlesung von Prof. G. Brewka gehalten
+    en: BSc course in computer science, Lecture held by Prof. G. Brewka
+  left:
+    de: SS 2015 - 2020
+    en: ST 2015 - 2020
+
+kbslec:
+  title:
+    de: Wissensbasierte Systeme
+    en: Knowledge Based Systems
+  subtitle:
+    de: Vorlesung
+    en: Lecture
+  location:
+    de: 2.0 SWS
+    en: 2.0 h per week
+  description:
+    de: Vertretung von Prof. G. Brewka zum Thema ASP in dieser Informatik-Bachelor-Vorlesung
+    en: Represented Prof. G. Brewka at Topic "ASP", BSc course in computer science
+  left:
+    de: SS 2015 - 2020
+    en: SS 2015 - 2020
+
+wrlec:
+  title:
+    de: Wissensrepräsentation
+    en: Knowledge Representation
+  subtitle: 
+    de: Vorlesung
+    en: Lecture
+  location:
+    de: 2.0 SWS
+    en: 2.0 h per week
+  description:
+    de: Das Thema "Multi-Context Systeme" in diesem Informatik-Master-Kurs behandelt
+    en: Presented the topic "Multi-Context Systems", MSc course in computer science
+  left:
+    de: WS 2019
+    en: WT 2019
+
+wrsem:
+  title:
+    de: Wissensrepräsentation
+    en: Knowledge Representation
+  subtitle: Seminar
+  location:
+    de: 2.0 SWS
+    en: 2.0 h per week
+  description:
+    de: Informatik-Master-Kurs
+    en: MSc course in computer science
+  left:
+    de: WS 2013, WS 2019
+    en: WT 2013, WT 2019
+
+wrprak:
+  title:
+    de: Wissensrepräsentation
+    en: Knowledge Repesentation
+  subtitle:
+    de: Praktikum
+    en: Practical course
+  location:
+    de: 2.0 SWS
+    en: 2.0h per week
+  description:
+    de: Informatik-Master-Kurs in welchem die Studierende das Modellieren von Wissen mittels ASP erlernen sollen
+    en: Learn on how to model knowledge with answer set programming, MSc course in computer science
+  left:
+    de: WS 2017 - 2020
+    en: WT 2017 - 2020
+
+intsys:
+  title:
+    de: Intelligente Systeme
+    en: Intelligent systems
+  subtitle: Seminar
+  location:
+    de: 2.0 SWS
+    en: 2.0 h per week
+  description:
+    de: Informatik-Master-Kurs
+    en: MSc course in computer science
+  left:
+    de: WS 2014
+    en: WT 2014
+  
+loginf:
+  title:
+    de: Logik in der Informatik
+    en: Logic in Computer Science
+  subtitle: Seminar
+  location:
+    de: 2.0 SWS
+    en: 2.0 h per week
+  description:
+    de: Informatik-Master-Kurs
+    en: MSc course in computer science
+  left:
+    de: SS 2014
+    en: WT 2014
+
+semweb:
+  title: Semantic Web Technologies
+  subtitle: Seminar
+  location:
+    de: 2.0 SWS
+    en: 2.0h per week
+  description:
+    de: Informatik-Master-Kurs
+    en: MSc course in computer science
+  left:
+    de: SS 2013
+    en: ST 2013

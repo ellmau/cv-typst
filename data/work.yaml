@@ -1,0 +1,90 @@
+tud:
+  title:
+    de: Wissenschaftlicher Mitarbeiter (Postdoktoral)
+    en: Postdoctoral Research Associate
+  location:
+    de: TU Dresden, Fakultät für Informatik / Center for Advanced Electronics Dresden (cfaed) / International Center for Computational Logic (ICCL), Wissensbasierte Systeme Gruppe
+    en: TU Dresden, Faculty for Computer Science / Center for Advanced Electronics Dresden (cfaed) / International Center for Computational Logic (ICCL), Knowledge-Based Systems Group
+  description:
+    de: >+
+      Forschung zu qualitativer KI, regelbasiertem Schließen, ontologiebasiertem Datenzugriff
+      und Argumentationstheorie. Rust-Softwareentwicklung, Systemadministration, diverse
+      organisatorische Aufgaben und Lehre. Projektmanagement-Aufgaben als Vertretung
+      der Arbeitspaketleitung in InnoSale.\ 
+
+      Organisator der SAFA 2024, technische Leitung der JELIA 2023 und diverse Gutachtertätigkeiten.\ 
+      *Finanzierung* durch das Bundesministerium für Bildung und Forschung (BMBF) im Center for Scalable Data Analytics und Artificial Intelligence (ScaDS.AI)
+      und seit 01/2023 zusätzlich im BMBF finanzierten Industriorientierten ITEA4 Projekt "Innovating Sales and Planning of Complex Industrial Products Exploiting Artificial Intelligence (InnoSale)"
+    en: >+
+      Research on qualitative AI, rule-based reasoning, ontology-based data access
+      and argumentation theory. Rust software development, system administration, various organisational tasks, and teaching.
+      Project management responsibilities as InnoSale's work package lead.\ 
+
+      Organiser of SAFA 2024, technical chair of JELIA 2023, and various reviewing activities.\ 
+      *Funded by* the Federal Ministry of Education and Research (BMBF) in ScaDS.AI
+      (Center for Scalable Data Analytics and Artificial Intelligence) and additionally in the
+      BMBF funded industry-oriented ITEA4 project “Innovating Sales and Planning of Complex Industrial Products Exploiting Artificial Intelligence (InnoSale)” since 01/2023.
+  left: 01/2021 - 09/2024
+
+landesstelle leipzig:
+  title: 
+    de: Wissenschaftlicher Mitarbeiter (Postdoktoral) 
+    en: Postdoctoral Research Associate
+  location:
+    de: Universität Leipzig, Institut für Informatik, Abteilung Intelligente Systeme
+    en: Leipzig University, Computer Science Institute, Intelligent Systems Group
+  description:
+    de: >+
+      Landesstelle mit Lehrverpflichtung. Übernahme von administrativen und organisatorischen Aufgaben im Rahmen von COVID-19. Gast-Redakteur für die TPLP. Diverse Gutachtertätigkeiten.
+    en: >+
+      State-funded position with obligatory teaching duties. Handling of COVID-19 related administrative and organisational tasks. Guest-Editor for TLPL. Various reviewing tasks.
+  left: 10/2018 - 12/2020
+
+doc:
+  title:
+    de: Wissenschaftlicher Mitarbeiter (Doktorand)
+    en: Research associate
+  location: 
+    de: Universität Leipzig, Institut für Informatik, Abteilung Intelligente Systeme
+    en: Leipzig University, Computer Science Institute, Intelligent Systems Group
+  description:
+    de: >+
+      Forschungsaufgaben zu Künstlicher Intelligenz und Wissensrepräsentation im Bereich des verteilten und streambasierten Schließens, Argumentationstheorie und regelbasierter Logikprogrammierung.
+      Übernahme von Lehrtätigkeiten, Organisation diverser Begutachteter Workshops (ReactKnow 2014, IULP 2015 und 2017) und allgemeiner Gutachtertätigkeiten.
+      Administrative und Projektmanagementtätigkeiten im Rahmen der Hybris-Forschergruppe.
+
+      Mitarbeit in folgenden Projekten der deutschen Forschergruppe (DFG) als *Projektmitarbeiter*:
+
+      - 10/2017-09/2018: _"Neue Werkzeuge für graphenbasierte formale Argumentation"_ (Projekt BR-1817/7-2)
+      
+      \ Als *Projektmitarbeiter* und *administrative officer* für den Standort Leipzig:
+
+      - 10/2012-09/2017 _"Hybris-A2: Advanced Solving Technology for Dynamic and Reactive Applications"_
+      (Forschergruppe Hybrid Reasoning for Intelligent Systems - "Hybris" - FOR 1513)
+
+      - 10/2012-09/2015 _"Hybris-B2: From Correlation to Causality: Hybrid Reasoning over Dynamic Protein Interaction Networks"_ (FOR 1513)
+    en: >+
+      Research on artificial intelligence and knowledge representation in distributed and stream-based reasoning, argumentation theory, and rule-based logic programming.
+      Teaching, the organisation of multiple peer-reviewed workshops (RactKnow 2014, IULP 2015 and 2017) and various reviewing activities.
+      Administrative and project management tasks for the Hybris-research group.
+
+      Working at the following projects of the german research group (DFG) as *project employee*:
+
+      - 10/2017-09/2018: _"Advanced tools for graph-based formal argumentation"_ (Project BR-1817/7-2)
+
+      \ As *project employee* and *administrative officer* for Leipzig:
+
+      - 10/2012-09/2017 _"Hybris-A2: Advanced Solving Technology for Dynamic and Reactive Applications"_
+      (Researchgroup Hybrid Reasoning for Intelligent Systems - "Hybris" - FOR 1513)
+
+      - 10/2012-09/2015 _"Hybris-B2: From Correlation to Causality: Hybrid Reasoning over Dynamic Protein Interaction Networks"_ (FOR 1513)
+  left: 10/2012 - 09/2018
+
+pm:
+  title: 
+    de: Projektmitarbeiter
+    en: Project employee
+  location:
+    de: Technische Universität Wien
+    en: Vienna University of Technology
+  left: 03/2011

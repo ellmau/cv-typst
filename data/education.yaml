@@ -1,0 +1,82 @@
+promotion:
+  title: 
+    de: Promotionsstudium (Dr. rer. nat.)
+    en: Doctoral study (Dr. rer. nat.)
+  subtitle: 
+    de: Informatik
+    en: Computer Science
+  location:
+    de: Universität Leipzig
+    en: Leipzig University
+  description: 
+    de: >+
+      "magna cum laude".
+     
+      _"Multi-Context Reasoning in Continuous Data-Flow Environments"_
+
+      - Prof. Dr. Gerhard Brewka (Betreuer und Erstgutachter)
+
+      - Prof. Dr. Torsten Schaub (Zweitgutachter)
+    en: >+
+      "magna cum laude".
+
+      _"Multi-Context Reasoning in Continuous Data-Flow Environments"_
+
+      - Prof. Dr. Gerhard Brewka (supervisor and first reviewer)
+
+      - Prof. Dr. Torsten Schaub (second reviewer)
+  left: 10/2012 – 06/2018 
+
+master:
+  title:
+    de: Masterstudium (Dipl.-Ing.)
+    en: Master's study (Dipl.-Ing.)
+  subtitle: Computational Intelligence
+  location:
+    de: Technische Universität Wien
+    en: Vienna University of Technology
+  description:
+    de: >+
+      mit Auszeichnung.
+
+      _"Abstract Dialectical Frameworks: Properties, Complexity, and Implementation"_
+
+      - Privatdoz. Dr. techn. Dipl.-Ing. Stefan Woltran (Betreuer)
+
+      - Proj. Ass. Dipl.-Ing. Johannes Peter Wallner, BSc (Mitwirkung und Betreuung)
+    en: >+
+      with distinction.
+
+      _"Abstract Dialectical Frameworks: Properties, Complexity, and Implementation"_
+
+      - Privatdox. Dr. techn. Dipl.-Ing. Stefan Woltran (supervisor)
+
+      - Proj. Ass. Dipl.-Ing. Johannes Peter Wallner, BSc (assistance)
+  left: 10/2009 - 09/2012
+
+bachelor:
+  title:
+    de: Bachelorstudium (BSc)
+    en: Bachelor's study (BSc)
+  subtitle:
+    de: Medizinische Informatik
+    en: Medicine and Computer Science
+  location: 
+    de: Technische Universität Wien
+    en: Vienna University of Technology
+  left: 10/2005 - 07-2009
+
+matura:
+  title: 
+    de: Matura (Hochschulreife)
+    en: "\"Matura\" Higher School Certificate"
+  subtitle: 
+    de: Elektronische Datenverarbeitung und Organisation (EDVO)
+    en: Department EDVO 
+  location: 
+    de: Höhere technische Bundes Lehr- und Versuchsanstalt Wiener Neustadt (HTBLuVA)
+    en: HTBLuVA Wiener Neustadt
+  description: 
+    de: Oberstufen-Schule zum Erlangen der allgemeinen Hochschulreife sowie einer Ausbildung im Bereich der Informatik und der betrieblichen Organisation mit Diplom- und Reifeabschluss zum 13. Schuljahr
+    en: School to gain matriculation standard in conjunction with expertise in the field of informatics and business management (graduation at the 13th school year)
+  left: 09/2000 - 06/2005

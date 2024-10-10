@@ -1,0 +1,19 @@
+moeller:
+  title: "_Justus Möller_: Construction of Human-solvable Sudoku Puzzles"
+  left: "2022"
+
+krawetzke:
+  title: 
+    de: "_Tobias Krawetzke_: Dialectical Models Encoding in C++ neu betrachtet: Analyse, Benutzbarkeit und Modifikation, Note: \"gut\""
+    en: "_Tobias Krawetzke_: Dialectical Models Encoding in C++ neu betrachtet: Analyse, Benutzbarkeit und Modifikation, Grade: \"good\""
+  left: "2020"
+
+kubsch:
+  title: 
+    de: "_Kevin Kubsch_: Application and implementation of splitting procedures to Abstract Dialectical Frameworks, Note: \"sehr gut\""
+    en: "_Kevin Kubsch_: Application and implementation of splitting procedures to Abstract Dialectical Frameworks, Grade: \"very good\""
+  left: "2017"
+
+runge:
+  title: "_Jakob Runge_: CARBON - a Web application and a RESTful API for argumentation"
+  left: "2014"

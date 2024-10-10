@@ -1,0 +1,109 @@
+expert:
+  kr:
+    name: 
+      de: Wissensrepräsentation
+      en: Knowledge Representation
+    action: 
+  ai:
+    name: 
+      de: qualitative KI
+      en: qualitative AI 
+    action:
+  argu:
+    name:
+      de: Argumentationstheorie
+      en: Argumentation Theory
+    action:
+  comp:
+    name:
+      de: Komplexitätstheorie
+      en: Complexity Theory
+    action:
+  plan:
+    name:
+      de: Diskretes Planen und Optimieren
+      en: Discrete Planning and Optimisation
+    action:
+  typing:
+    name: LaTeX, typst
+    action:
+  teach:
+    name: 
+      de: Hochschullehre
+      en: Higher Education Teaching
+    action:
+  working_m:
+    name:
+      de: wissenschaftliche Arbeitsmethoden
+      en: Scientific working methods
+    action:
+  org:
+    name:
+      de: Wissenschaftsorganisation
+      en: Research organisation
+    action:
+  asp:
+    name: 
+      de: Deklarative Programmierung (Antwortmengenprogrammierung)
+      en: Declarative Programming (Answer Set Programming)
+    action:
+
+competencies:
+  pm:
+    name:
+      de: (Agiles) Projektmanagement
+      en: (Agile) Projectmanagement
+    action:
+  linux:
+    name: NixOs, bash/zsh
+    action:
+  programming:
+    name: python, C(++), Rust
+    action:
+  databases:
+    name: SQL, datalog
+    action:
+  source:
+    name: git
+    action:
+  ml:
+    name:
+      de: Grundlegendes Machine Learning (BDT, Deep Learning) Wissen
+      en: Basic Machine Learning (BDT, Deep Learning) knowledge
+    action:
+  dscience:
+    name:
+      de: Grundlegendes Data Science Wissen
+      en: Basic Data Science knowledge
+    action: 
+
+softskills:
+  teamwork:
+    name:
+      de: teamfähig
+      en: team player
+    action:
+  agile:
+    name:
+      de: anpassungsfähig
+      en: adapable
+    action:
+  konfliktloesung:
+    name:
+      de: Konflikt- und Problemgesprächerfahrung
+      en: conflict and problem discussion experience
+    action: 
+  leadership:
+    name:
+      de: Führungskompetenz
+      en: leadership skills
+    action:
+  presentation:
+    name:
+      de: Präsentationsskills
+      en: presentation skills
+    action:
+  estj:
+    name: "MBTI: ESTJ"
+    action: 
+  

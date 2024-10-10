@@ -1,0 +1,17 @@
+journals:
+  title: Theory and Practice of Logic Programming (TPLP), ACM Transactions on Database Systems (TODS), Artificial Intelligence Review (AIRE), IfCoLog Journal of Logics and their Applications, Journal of Artificial Intelligence Research (JAIR), International Journal of Approximate Reasoning (IJA)
+  left:
+    de: Gutachten Zeitschriften
+    en: Journal Reviewing
+
+pc:
+  title: AAAI 2024, ASPOCP 2024, ECAI 2024, AAAI 2023, ASPOCP 2023, ECAI 2023, ASPOCP 2022, SAFA 2022, ASPOCP 2020, COMMA 2020, SAFA 2020, ASPOCP 2019, AAAI 2018, SAFA 2018, COMMA 2016, SAFA 2016, IJCAI 2015 (KR Track)
+  left:
+    de: Programmkomitee
+    en: Program Committee
+
+reviews:
+  title: COMMA 2018, IJCAI 2018, IJCAI 2017, IJCAI 2016, ICLP 2016, SAFA 2016, IJCAI 2015, IULP 2015, AAAI 2014, ECAI 2014, ReactKnow 2014, ICCSW 2014, ICLP 2013, ICCSW 2013
+  left:
+    de: Gutachten Konferenzen & Workshops
+    en: Reviewing Conferences & Workshops

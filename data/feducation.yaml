@@ -1,0 +1,80 @@
+bwl:
+  title: 
+    de: "BWL für Nachwuchswissenschaftler:innen - Grundbegriffe und Zusammenhänge"
+    en: Business administration for young researcher
+  location: Graduate Academy TU Dresden
+  description:
+    de: "Workshopt mit 16 Lehreinheiten zu BWL, Vortragender: Prof. Dr. Torsten Forberg"
+    en: "Workshop of 16 teaching units on business administration, Lecturer: Prof. Dr. Torsten Forberg"
+  left: 06/2024
+
+negotiation:
+  title: "Negotiating in Science & Academia"
+  location: Graduate Academy TU Dresden
+  description:
+    de: "Workshop mit 9 Lehreinheiten zu Verhandlungen bei Industrieverträgen und im akademischen Umfeld, Vortragende: Dr. Silvia Scheinert"
+    en: "Workshop of 9 teaching units on negotiations during business deals and academia, Lecturer: Dr. Silvia Scheinert"
+  left: 05/2024
+
+ersteh:
+  title: 
+    de: "Erste Hilfe Fortbildung inkl. Sportnotfälle"
+    en: "First Aid Training including Sports Emergencies"
+  location: Deutsches Rotes Kreuz Dresden
+  description:
+    de: "9 Unterrichtseinheiten umfassender Lehrgang"
+    en: "Course comprising 9 teaching units"
+  left: 10/2023
+
+pm_teamlead:
+  title: "Managing Projects and Leading Teams for Postdocs"
+  location: Graduate Academy TU Dresden
+  description:
+    de: "Workshop mit 13 Arbeitseinheiten, Vortragender: Dr. Markus Schmittberger"
+    en: "Workshop of 13 working units, Lecturer: Dr. Markus Schmittberger"
+  left: 03/2023
+
+leadership:
+  title: Leadership Skills for Postdocs
+  location: Graduate Academy TU Dresden
+  description:
+    de: "Workshop mit 18 Arbeitseinheiten, Vortragender: Hiu Pun Chong"
+    en: "Workshop of 18 working units, Lecturer: Hiu Pun Chong"
+  left: 05/2022
+
+agile:
+  title: 
+    de: Agiles Projektmanagement - Methoden und Prozesse zur Zusammenarbeit im Team
+    en: Agile Projectmanagement - Methods and Processes to Cooperation in Teams
+  location: 
+    de: Zentrum für Weiterbildung - TU Dresden
+    en: Center for continuing education - TU Dresden
+  description:
+    de: "Workshop mit 16 Arbeitseinheiten, Vortragender: Roberto Riehle (SCRUM-Master und Agile-Coach)"
+    en: "Workshop of 18 working units, Lecturer: Roberto Riehle (SCRUM-Master and Agile-Coach)"
+  left: 01/2022
+
+hds:
+  title: 
+    de: Sächsisches Hochschuldidaktik-Zertifikat
+    en: Saxon Higher Education Didactics Certificate
+  location: 
+    de: Hochschuldidaktisches Zentrum Sachsen (HDS)
+    en: Center for Didactics and Higher Education Saxony (HDS)
+  description:
+    de: 240 Arbeitseinheiten
+    en: 240 working units
+  left: 10/2018 - 06/2020 
+
+dc: 
+  title: Doctoral Consortium
+  location: Fourteenth Conference on Principles of Knowledge Representation and Reasoning (KR), Wien
+  description:
+    de: "Thema: Argumentation for Reactive Reasoning"
+    en: "Topic: Argumentation for Reactive Reasoning"
+  left: 07/2014
+
+sc: 
+  title: Summer School
+  location: Advanced Course on AI (ACAI), London
+  left: 06/2013

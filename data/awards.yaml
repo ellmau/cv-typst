@@ -1,0 +1,15 @@
+asp-espoo:
+  title:
+    de: "*7. Answer Set Programming Competition Modelling Competition*, International Conference on Logic Programming and Nonmonotonic Reasoning (LPNMR) 2017, Espoo, Finnland: _Erster Platz_"
+    en: "*7. Answer Set Programming Competition Modelling Competition*, International Conference on Logic Programming and Nonmonotonic Reasoning (LPNMR) 2017, Espoo, Finland: _first place_"
+  left: 07/2017
+asp-vienna:
+  title:
+    de: "*ASP Modelling Contest*, International Conference on Logic Programming (ICLP) 2014 im Rahmen der Vienna Summer of Logic 2014 Olympics, Wien, Österreich: _Dritter Platz_"
+    en: "*ASP Modelling Contest*, International Conference on Logic Programming (ICLP) 2014 during the Vienna Summer of Logic 2014 Olympics, Vienna, Austria: _third place_"
+  left: 07/2014
+prolog:
+  title: 
+    de: "*20. PROLOG Programming Contest*, International Conference on Logic Programming (ICLP) 2013, Istanbul, Türkei: _Erster Platz_"
+    en: "*20. PROLOG Programming Contest*, International Conference on Logic Programming (ICLP) 2013, Istanbul, Turkey: _first place_"
+  left: 08/2013

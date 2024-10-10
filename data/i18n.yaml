@@ -1,0 +1,41 @@
+lang:
+  de:
+    date-format: "[day]. [month]. [year]"  
+    subtitle: Lebenslauf
+    education: Ausbildung
+    feducation: Fortbildung
+    work: Beruflicher Werdegang
+    skills: Skills
+    awards: Preise
+    volunteering: Ehrenamtliche Arbeit
+    acad: Akademischer Werdegang
+    reviewing: Gutachtertätigkeit
+    scientific: Wissenschaftliche Tätigkeiten
+    competencies: Weitere Kompetenzen
+    expert: Experte
+    softskills: Softskills
+    teaching: Bisherige Lehrtätigkeit
+    teaching_resp: Selbständige Wahrnehmung von Lehraufgaben
+    courses: Lehrveranstaltungen
+    cosuper: Zweit-Betreute Bachelorarbeiten
+    teaching_assistance: Studienassistenz
+  en:
+    date-format: "[month repr:long], [day] [year]"
+    subtitle: Curriculum Vitae
+    education: Education
+    feducation: Further Education
+    work: Employment History
+    skills: Skills
+    awards: Awards
+    reviewing: Reviewing
+    scientific: Scientific Working Experience
+    competencies: Further Competencies
+    expert: Expert
+    softskills: Softskills
+    teaching: Teaching Experience
+    teaching_resp: Teaching Responsibilities
+    courses: Lectures/Courses
+    cosuper: Co-supervised Bachelor's Thesis
+    teaching_assistance: Teaching Assistance 
+    volunteering: Volunteering Work
+    acad: Academic Working Experience

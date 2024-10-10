@@ -1,0 +1,42 @@
+colors:
+  main_color: "#5c00d4"
+  lightgray_color: "#d5d5d5"
+  gray_color: "#737373"
+personal:
+  name: ["Ellmauthaler, Dr. Stefan"]
+  split: false
+  pitch: Dr. rer. nat. | AI Researcher | Tech & AI Consultant | NixOS Enthusiast | Speaker
+  extras:
+    line1:
+      content: Schweriner Straße 37
+    line2:
+      content: 01067 Dresden
+    phone:
+      icon: phone
+      content: +49 (0) 176 36998023
+  socials:
+    email:
+      username: stefan@ellmauthaler.net
+      icon: paper-plane
+      set: fa
+      prefix: "mailto:"
+    homepage:
+      username: stefan.ellmauthaler.net
+      icon: globe
+      set: fa
+      prefix: https://
+    orcid:
+      username: 0000-0003-3882-4286
+      icon: orcid
+      set: ai
+      prefix: https://orcid.org/
+    linkedin:
+      username: Stefan-Ellmauthaler
+      icon: linkedin
+      set: fa
+      prefix: https://linkedin.com/in/
+    github:
+      username: ellmau
+      icon: github
+      set: fa
+      prefix: https://github.com/
