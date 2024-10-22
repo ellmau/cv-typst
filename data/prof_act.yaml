@@ -1,7 +1,7 @@
 safa2024:
-  title: 
-    de: 5\. Inernational Workshop on Systems and Algorithms for Formal Argmentation (SAFA2024), abgehalten zusammen mit der 10. International Conference on Computational Models of Argument (COMMA 2024) in Hagen, Deutschland
-    en: 5\. Inernational Workshop on Systems and Algorithms for Formal Argmentation (SAFA2024), co-located with the 10. International Conference on Computational Models of Argument (COMMA 2024) at Hagen, Germany
+  title:
+    de: 5\. International Workshop on Systems and Algorithms for Formal Argmentation (SAFA2024), abgehalten zusammen mit der 10. International Conference on Computational Models of Argument (COMMA 2024) in Hagen, Deutschland
+    en: 5\. International Workshop on Systems and Algorithms for Formal Argmentation (SAFA2024), co-located with the 10. International Conference on Computational Models of Argument (COMMA 2024) at Hagen, Germany
   left:
     de: SAFA Organisator
     en: SAFA Organiser
@@ -27,8 +27,7 @@ TPLPIULP:
     de: Zeitschrift Theory and Practice on Logic Programming (TPLP), Sonderausgabe User-Oriented Logic Programming and Reasoning Paradigms
     en: Theory and Practice on Logic Programming (TPLP), Special issue on User-Oriented Logic Programming and Reasoning Paradigms
   left:
-    de: 
-      Gast-Redakteur
+    de: Gast-Redakteur
     en: Guest-Editor
 
 IULP2017:
@@ -36,10 +35,8 @@ IULP2017:
     de: 2\. International Workshop on User-Oriented Logic Paradigms (IULP 2017), abgehalten zusammen mit der 4. International Conference on Logic Programming and Nonmonotonic Reasoning (LPNMR 2017) in Espoo, Finnland
     en: 2\. International Workshop on User-Oriented Logic Paradigms (IULP 2017), co-located with the 4. International Conference on Logic Programming and Nonmonotonic Reasoning (LPNMR 2017) at Espoo, Finland
   left:
-    de:
-      IULP Organisator
-    en: 
-      IULP Organiser
+    de: IULP Organisator
+    en: IULP Organiser
 
 IULP2015:
   title:
@@ -54,7 +51,5 @@ ReactKnow2014:
     de: International Workshop on Reactive Concepts in Knowledge Representation (ReactKnow 2014), abgehalten zusammen mit der European Conference on Artificial Intelligence (ECAI 2014) in Prag, Tschechien
     en: International Workshop on Reactive Concepts in Knowledge Representation (ReactKnow 2014), co-located with the European Conference on Artificial Intelligence (ECAI 2014) at Prague, Czech
   left:
-    de:
-      ReactKnow Organisator
-    en: 
-      ReactKnow Organiser
+    de: ReactKnow Organisator
+    en: ReactKnow Organiser
