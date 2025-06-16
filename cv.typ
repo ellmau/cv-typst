@@ -112,10 +112,10 @@
 
 
 #if language == "de"{
-  pagebreak(weak: true)
+  //pagebreak(weak: true)
 }
 #if language == "en"{
-  pagebreak(weak: true)
+  //pagebreak(weak: true)
 }
 == #headerLabs.at("scientific")
 #cv-auto(professional,multilingual,lang:language)
