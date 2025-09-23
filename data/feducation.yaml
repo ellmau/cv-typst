@@ -1,3 +1,23 @@
+lap:
+  title:
+    de: "Zertifizierter LAP Prüfer"
+    en: "Certified Final Examination Assessor"
+  location: WIFI Steiermark, Graz
+  description:
+    de: "Training zum zertifizierten LAP (Lehrabschlussprüfung) Prüfer im Ausmaß von 8 Stunden"
+    en: "Training of 8 hours to become a certified final examination assessor"
+  left: 09/2025
+
+digconsult:
+  title: 
+    de: "Basisworkshop Digital Consultant"
+    en: "Basic Workshop Digital Consultant"
+  location: UBIT Akademie Incite, WIFI Steiermark, Graz (online)
+  description:
+    de: "Workshop mit 8 Lehreinheiten zu den Themenbereichen: Digitalisierung, Trendlandkarten, Digitale Status- und Potenzialanalyse, Reifegradfestellung, Berichtserfordernisse und KMU.DIGITAL"
+    en: "Workshop of 8 teaching units on the topics: Digitalization, Trend Maps, Digital Status and Potential Analysis, Maturity Assessment, Reporting Requirements and KMU.DIGITAL"
+  left: 09/2025
+
 nis2:
   title: Cybersicherheitsrichtlinie NIS 2
   location: UBIT Akademie Incite, WIFI Steiermark, Graz

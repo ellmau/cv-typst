@@ -70,9 +70,6 @@
 
 #cv-auto-stc(feducation,multilingual,lang:language)
 
-#if language == "de"{
-  pagebreak(weak: true)
-}
 #if language == "en" {
   pagebreak(weak:true)
 }
@@ -106,6 +103,9 @@
 = #headerLabs.at("volunteering")
 #cv-auto(volunteering,multilingual,lang:language)
 
+#if language == "en"{
+  pagebreak(weak:true)
+}
 = #headerLabs.at("acad")
 == #headerLabs.at("reviewing")
 #cv-auto(reviewing,multilingual,lang:language)
