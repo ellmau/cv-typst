@@ -1,3 +1,10 @@
+nis2+:
+  location: UBIT Akademie Incite, WIFI Steiermark, Graz (online)
+  title: "Updateseminar NIS-2: Netz und Informationssicherheitsgesetz 2026 (NISG 2026)"
+  description: 
+    de: "Updateseminar mit 2 Lehreinheiten zur aktuellen NISG2026 Umsetzung der NIS-2"
+    en: "Updateseminar of 2 teaching units about the current NISG2026 implementation of NIS-2"
+  left: 02/2026
 lap:
   title:
     de: "Zertifizierter LAP Prüfer"
