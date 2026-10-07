@@ -55,7 +55,7 @@ competencies:
       en: (Agile) Projectmanagement
     action:
   linux:
-    name: NixOs, bash/zsh
+    name: NixOS, bash/zsh
     action:
   programming:
     name: python, C(++), Rust

@@ -1,20 +1,20 @@
 echo-intelligence:
   title:
     de: Geschäftsführer und Gründer
-    en: CEO and Founder
+    en: Managing Director and Founder
   location:
     Echo Intelligence GmbH, Krenngasse 12, A-8010 Graz
   description:
     de: >+
       Gründung der Echo Intelligence GmbH zur Bereitstellung innovativer KI- und IT-Dienstleistungen.  
-      Verantwortung als handels- und gewerberechtlicher Geschäftsführer.
+      Strategische, operative und kaufmännische Gesamtleitung als handelsrechtlicher Geschäftsführer; seit 01/2025 auch gewerberechtlicher Geschäftsführer.
       Offiziell durch die UBIT Steiermark als NIS2-Berater gelistet.
-      Mitglied der IT Security Experts Group Steiermark und Österreich.
+      Mitglied der Expert Group IT Security der UBIT Steiermark.
     en: >+
-      Founded Echo Intelligence GmbH to deliver cutting-edge AI and IT services.
-      Oversaw all legal and commercial aspects of the business.
-      Officially recognized as a NIS2 consultant by UBIT Steiermark.
-      Member of the IT Security Experts Group Steiermark and Austria.
+      Founded Echo Intelligence GmbH to provide innovative AI and IT services.
+      Overall strategic, operational and commercial management as managing director under company law; since 01/2025 also managing director under trade law (gewerberechtlicher Geschäftsführer).
+      Officially listed as a NIS2 consultant by UBIT Styria.
+      Member of the Expert Group IT Security, UBIT Styria.
   left:
     de: 12/2024 - heute
     en: 12/2024 - today
@@ -34,7 +34,7 @@ tud:
 
       Organisator der SAFA 2024. Technische Leitung der JELIA 2023. Gutachtertätigkeiten.\ 
       *Finanzierung* durch das Bundesministerium für Bildung und Forschung (BMBF) im Center for Scalable Data Analytics und Artificial Intelligence (ScaDS.AI)
-      und seit 01/2023 zusätzlich im BMBF finanzierten Industriorientierten ITEA4 Projekt "Innovating Sales and Planning of Complex Industrial Products Exploiting Artificial Intelligence (InnoSale)"
+      und seit 01/2023 zusätzlich im BMBF finanzierten industrieorientierten ITEA4 Projekt "Innovating Sales and Planning of Complex Industrial Products Exploiting Artificial Intelligence (InnoSale)"
     en: >+
       Research on qualitative AI, rule-based reasoning, ontology-based data access
       and argumentation theory. Rust software development, system administration, various organisational tasks, and teaching.
@@ -43,7 +43,7 @@ tud:
       Organiser of SAFA 2024, technical chair of JELIA 2023, and various reviewing activities.\ 
       *Funded by* the Federal Ministry of Education and Research (BMBF) in ScaDS.AI
       (Center for Scalable Data Analytics and Artificial Intelligence) and additionally in the
-      BMBF funded industry-oriented ITEA4 project “Innovating Sales and Planning of Complex Industrial Products Exploiting Artificial Intelligence (InnoSale)” since 01/2023.
+      BMBF funded industry-oriented ITEA4 project "Innovating Sales and Planning of Complex Industrial Products Exploiting Artificial Intelligence (InnoSale)"" since 01/2023.
   left: 01/2021 - 09/2024
 
 landesstelle leipzig:
@@ -70,10 +70,10 @@ doc:
   description:
     de: >+
       Forschungsaufgaben zu Künstlicher Intelligenz und Wissensrepräsentation im Bereich des verteilten und streambasierten Schließens, Argumentationstheorie und regelbasierter Logikprogrammierung.
-      Übernahme von Lehrtätigkeiten, Organisation diverser Begutachteter Workshops (ReactKnow 2014, IULP 2015 und 2017) und allgemeiner Gutachtertätigkeiten.
+      Übernahme von Lehrtätigkeiten, Organisation diverser begutachteter Workshops (ReactKnow 2014, IULP 2015 und 2017) und allgemeiner Gutachtertätigkeiten.
       Administrative und Projektmanagementtätigkeiten im Rahmen der Hybris-Forschergruppe.
 
-      Mitarbeit in folgenden Projekten der deutschen Forschergruppe (DFG) als *Projektmitarbeiter*:
+      Mitarbeit in folgenden Projekten der Deutschen Forschungsgemeinschaft (DFG) als *Projektmitarbeiter*:
 
       - 10/2017-09/2018: _"Neue Werkzeuge für graphenbasierte formale Argumentation"_ (BR-1817/7-2)   
 
