@@ -1,5 +1,12 @@
+iso20700:
+  location: UBIT Akademi Incite, WIFI Steiermark, Wien (online)
+  title: Trained in ISO 20700
+  description:
+    de: "Training zur Norm ISO 20700 im Ausmaß von 8 Lehreinheiten"
+    en: "Training of 8 teaching units on ISO 20700"
+  left: 10/2026
 nis2+:
-  location: UBIT Akademie Incite, WIFI Steiermark, Graz (online)
+  location: UBIT Akademie Incite, WIFI Steiermark, Wien (online)
   title: "Updateseminar NIS-2: Netz und Informationssicherheitsgesetz 2026 (NISG 2026)"
   description: 
     de: "Updateseminar mit 2 Lehreinheiten zur aktuellen NISG2026 Umsetzung der NIS-2"
